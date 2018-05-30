@@ -4,7 +4,6 @@
 int main(void)
 {
 
-
     // Prompt user to enter a number between 0 and 23
     int height;
     do
