@@ -1,4 +1,4 @@
-# CS50
+# This is CS50.
 Here are my Harvard CS50 2018 problem set solutions.
 
 Problem Set 1 - C
