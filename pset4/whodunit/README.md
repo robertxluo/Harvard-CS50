@@ -48,7 +48,8 @@ Because it specifies how many elements to be read and it's always reading one st
 
 ## What value does line 63 of `copy.c` assign to `padding` if `bi.biWidth` is `3`?
 
-`int padding = (4 - (3 * (3 % 4)) % 4;`
+`int padding = (4 - (bi.biWidth * sizeof(RGBTRIPLE)) % 4) % 4;`  
+`int padding = (4 - (3 * (3 % 4)) % 4;`  
 The padding would be 3.
 
 ## What does `fseek` do?
