@@ -6,7 +6,7 @@
 
 ## What's the point of using `uint8_t`, `uint32_t`, `int32_t`, and `uint16_t` in a program?
 
-It makes it clear you want to use a data a specific way. Using well-defined types.
+It makes it clear you want to use a data a specific way. Using well-defined types.  
 `uint8_t` is the same as a byte: an unsigned type of integer of length 8 bits.  
 `uint32_t` is an unsigned type of integer of 32 bits.  
 `int32_t` is a signed type of integer of 32 bits.  
