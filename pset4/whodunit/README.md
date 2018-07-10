@@ -6,29 +6,29 @@
 
 ## What's the point of using `uint8_t`, `uint32_t`, `int32_t`, and `uint16_t` in a program?
 
-It makes it clear you want to use a data a specific way. Using well-defined types
-`uint8_t` is the same as a byte: an unsigned type of integer of length 8 bits.
-`uint32_t` is an unsigned type of integer of 32 bits.
-`int32_t` is a signed type of integer of 32 bits
-`uint16_t` is an unsigned integer of 32 bits.
+It makes it clear you want to use a data a specific way. Using well-defined types.
+`uint8_t` is the same as a byte: an unsigned type of integer of length 8 bits.  
+`uint32_t` is an unsigned type of integer of 32 bits.  
+`int32_t` is a signed type of integer of 32 bits.  
+`uint16_t` is an unsigned integer of 32 bits.  
 
 ## How many bytes is a `BYTE`, a `DWORD`, a `LONG`, and a `WORD`, respectively?
 
-1 byte in a `BYTE` (8 bits)
-4 bytes in a `DWORD` (32 bits)
-4 bytes in a `LONG` (32 bits)
-2 bytes in a `WORD` (16 bits)
+1 byte in a `BYTE` (8 bits)  
+4 bytes in a `DWORD` (32 bits)  
+4 bytes in a `LONG` (32 bits)  
+2 bytes in a `WORD` (16 bits)  
 
 ## What (in ASCII, decimal, or hexadecimal) must the first two bytes of any BMP file be? Leading bytes used to identify file formats (with high probability) are generally called "magic numbers."
 
-ASCII: "BM"
-Decimal: 66 77
-Hexadecimal: 0x42 0x4D
+ASCII: "BM"  
+Decimal: 66 77  
+Hexadecimal: 0x42 0x4D  
 
 ## What's the difference between `bfSize` and `biSize`?
 
-`bfSize` is the size of the whole bmp file, which includes the headerfiles in bytes.
-`biSize` is the number of bytes required by the structure.
+`bfSize` is the size of the whole bmp file, which includes the headerfiles in bytes.  
+`biSize` is the number of bytes required by the structure.  
 
 ## What does it mean if `biHeight` is negative?
 
