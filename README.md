@@ -15,3 +15,8 @@ Problem Set 3: Music
 ----------
 
 Link to pset3: https://docs.cs50.net/2018/x/psets/3/pset3.html
+
+Problem Set 4: Forensics
+----------
+
+Link to pset4: https://docs.cs50.net/2018/x/psets/4/pset4.html
