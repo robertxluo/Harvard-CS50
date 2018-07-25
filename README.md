@@ -20,3 +20,8 @@ Problem Set 4: Forensics
 ----------
 
 Link to pset4: https://docs.cs50.net/2018/x/psets/4/pset4.html
+
+Problem Set 5: Mispellings
+----------
+
+Link to pset5: https://docs.cs50.net/2018/x/psets/5/pset5.html
