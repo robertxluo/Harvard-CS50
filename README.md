@@ -25,3 +25,8 @@ Problem Set 5: Mispellings
 ----------
 
 Link to pset5: https://docs.cs50.net/2018/x/psets/5/pset5.html
+
+Problem Set 6: Déjà vu
+----------
+
+Link to pset6: https://docs.cs50.net/2018/x/psets/6/pset6.html
