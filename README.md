@@ -1,5 +1,5 @@
 # This is CS50
-Here are my Harvard CS50 2018 problem set solutions.
+Here are my Harvard CS50X 2018 problem set solutions.
 
 Problem Set 1: C
 ----------
