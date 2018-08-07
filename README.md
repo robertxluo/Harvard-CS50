@@ -30,3 +30,8 @@ Problem Set 6: Déjà vu
 ----------
 
 Link to pset6: https://docs.cs50.net/2018/x/psets/6/pset6.html
+
+Problem Set 7: C$50 Finance
+----------
+
+Link to pset7: https://docs.cs50.net/2018/x/psets/7/pset7.html
