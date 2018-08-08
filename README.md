@@ -35,3 +35,9 @@ Problem Set 7: C$50 Finance
 ----------
 
 Link to pset7: https://docs.cs50.net/2018/x/psets/7/pset7.html
+
+Problem Set 8: Mashup
+----------
+
+Link to pset8: https://docs.cs50.net/2018/x/psets/8/pset8.html
+
