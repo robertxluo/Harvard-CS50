@@ -2,7 +2,7 @@
 
 ## What is pneumonoultramicroscopicsilicovolcanoconiosis?
 
-"An artificial long word said to mean a lung disease caused by inhaling very fine ash and sand dust.""
+"An artificial long word said to mean a lung disease caused by inhaling very fine ash and sand dust."
 
 ## According to its man page, what does `getrusage` do?
 
